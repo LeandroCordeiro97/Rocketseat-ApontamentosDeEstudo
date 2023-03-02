@@ -1,0 +1,49 @@
+
+<script>
+{
+    let x = 0
+    console.log(x)
+}
+</script>
+
+
+<!--VAR E SCOPE-->
+
+
+<script>
+
+//Var é Global e também local
+//Hoisting
+
+console.log('>Existe x antes do bloco?', x)
+
+{
+    var x = 0
+}
+
+console.log('>Existe x depois do bloco?', x)
+
+    
+</script>
+
+
+
+
+<!--LET, CONST E SCOPE-->
+
+
+
+<script>
+
+let y = 1
+{
+    let y = 0
+    console.log('>existe y', y)
+
+}
+
+console.log('>Existe y depois do bloco?', y)
+
+
+</script>
+

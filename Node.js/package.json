@@ -1,0 +1,19 @@
+{
+  "name": "rocketseat",
+  "version": "1.0.0",
+  "description": "aprender node",
+  "main": "Node.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroCordeiro97/Rocketseat.git"
+  },
+  "author": "Leandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroCordeiro97/Rocketseat/issues"
+  },
+  "homepage": "https://github.com/LeandroCordeiro97/Rocketseat#readme"
+}

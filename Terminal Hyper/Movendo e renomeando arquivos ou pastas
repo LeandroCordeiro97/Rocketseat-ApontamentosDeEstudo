@@ -1,0 +1,7 @@
+mv File Destino
+Pode-se mover também múltiplos arquivos simultâneamente, assim como no cp, utilizando-se de espaços e deixando o último argumento como destino, da seguinte forma:
+
+mv Pasta1 Pasta2 Pasta3 Pasta4 Pasta5 Pasta6 pastaDestino
+Para renomear ARQUIVOS, deve ser utilizado da seguite forma:
+
+mv file.txt arquivo.txt
