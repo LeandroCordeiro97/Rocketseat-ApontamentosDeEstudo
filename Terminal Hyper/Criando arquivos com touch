@@ -1,0 +1,7 @@
+É executado da seguinte maneira:
+
+touch NomeDoArquivoOuPastaParaAtualizar
+E, para criar uma pasta ou arquivo com o touch, só precisamode colocar o comando e o nome de um arquivo ou pasta que não exista no mesmo diretório, e assim como o mkdir, pode ser usado para criar mais de um arquivo ao mesmo tempo, exemplo abaixo:
+
+touch file1.txt file2.txt file3
+Você pode perceber que o file 3 não possui uma extensão, porém, mesmo assim nao deixa de ser um arquivo, diferentemente do mkdir, onde um comando feito assim resultaria numa pasta chamada file3 sendo criada.

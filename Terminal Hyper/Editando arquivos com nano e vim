@@ -1,0 +1,5 @@
+Para fechar o nano, o atalho é o Ctrl + X
+
+O vim é muito mais complexo que o nano, e pode-se inserir plugins nele, tornando-o mais poderoso. Para sair do vim, usa-se o comando :q
+
+Porém, se tiver feito alguma alteração, ele vai precisar ou do comando :wq, para confirmar, escrever essas mudanças e sair, ou do comando :q!, que cancela as alteraçõesgit

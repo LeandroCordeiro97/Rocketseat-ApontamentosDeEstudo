@@ -1,0 +1,9 @@
+O primeiro argumento é o nome do arquivo que deseja copiar, já o segundo argumento é onde copiar o arquivo, da seguinte forma:
+
+cp File1.txt Destino
+Caso você deseje copiar pastas, ainda é possível, porém será necessário o uso do argumeto -r, da seguinte forma:
+
+cp -r Pasta1 Pasta2
+Podemos ainda copiar mais de uma pasta ou arquivo, fazendo uso de espaços, sendo o último argumento a localização final, da seguinte forma:
+
+cp -r Pasta1 Pasta2 Pasta3 Pasta4 Pasta5 Pasta6 pastaDestino
